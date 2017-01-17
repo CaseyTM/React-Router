@@ -6,6 +6,7 @@
 		#cities-container{
 			width: 20%;
 			float: left;
+			opacity: .5;
 		}
 		th, td{
 			border: 1px solid black;
@@ -30,4 +31,5 @@
 			right: 50px;
 			background-color: white;
 			color: blue;
+			opacity: .8;
 		}
